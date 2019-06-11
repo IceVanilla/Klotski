@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">华容道</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_start_game">选择关卡</string>
+    <string name="select_title">选择关卡</string>
+    <string name="pass_1">横刀立马1</string>
+    <string name="pass_2">横刀立马2</string>
+    <string name="pass_3">齐头并进</string>
+    <string name="pass_4">兵分三路</string>
+    <string name="pass_5">屯兵东路</string>
+    <string name="pass_6">左右布兵</string>
+    <string name="game_pass_title">关卡：</string>
+    <string name="game_step_title">步数：</string>
+    <string name="game_name_zhangfei">張飛</string>
+    <string name="game_name_caocao">曹操</string>
+    <string name="game_name_machao">馬超</string>
+    <string name="game_name_huangzhong">黃忠</string>
+    <string name="game_name_huanyu">關羽</string>
+    <string name="game_name_zhaoyun">趙雲</string>
+    <string name="game_name_bing">兵</string>
+    <string name="game_area_exit">出口</string>
+    <string name="select_step_title">步数：</string>
+    <string name="main_reset_step">重置数据</string>
+    <string name="main_game_name">三國華容道</string>
+    <string name="main_exit">退出游戏</string>
+</resources>
